@@ -35,7 +35,7 @@ func info(s shape) {
 	fmt.Println(s.area())
 }
 
-func main(){
+func main() {
 	s := square{4.0}
 	c := circle{3.3}
 
