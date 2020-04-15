@@ -13,7 +13,7 @@ func main() {
 	fmt.Println(xs)
 	fmt.Println("Just the indexes: ")
 	for i := range xs {
-		fmt.Print(i,"\t")
+		fmt.Print(i, "\t")
 	}
 
 	fmt.Println("\n", "Indexes and values: ")
